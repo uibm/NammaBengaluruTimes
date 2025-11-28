@@ -1,6 +1,6 @@
 # NammaBengaluruTimes
 
-A clean, Apple-News–style Bengaluru news feed powered by live RSS streams.
+A clean Bengaluru news feed powered by live RSS streams.
 
 **Credits**  
 • News sources via public RSS feeds: Times of India, Hindustan Times, The Hindu  
